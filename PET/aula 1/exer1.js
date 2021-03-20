@@ -15,7 +15,7 @@ aux = v1
 v1 = v2
 v2 = aux
 
-console.log("Depiois da troca da troca")
+console.log("Depois da troca")
 
 console.log(v1)
 console.log(v2)
